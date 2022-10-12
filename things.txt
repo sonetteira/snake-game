@@ -1,9 +1,0 @@
-stuff we need to store in db
-lat min, long mins
-how often do things need to be calibrated
-
-
-health check
-track most recent data, up to date?
-calibration within range?
-excessive data differentials? jumping around too much
